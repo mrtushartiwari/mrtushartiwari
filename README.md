@@ -7,7 +7,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mr-tushar-tiwari/"><img height="30" src="https://github.com/tushifire/tushifire/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://github.com/tushifire/tushifire/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/tushar_fire"><img height="30" src="https://github.com/tushifire/tushifire/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://tushar-tiwari.medium.com/ "><img height="30" src="https://github.com/tushifire/tushifire/blob/master/medium.png?raw=true"></a>&nbsp;&nbsp;       
  </p>
  
