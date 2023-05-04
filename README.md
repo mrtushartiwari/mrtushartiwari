@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I was born in Goa :palm_tree:, but never went there as a grown up.
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushifire&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtushartiwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <p align="right">
  <img align='right' src="https://i.makeagif.com/media/5-01-2017/s7ln3_.gif" width="200px" height="200px">
