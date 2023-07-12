@@ -20,8 +20,7 @@
   </h5>
 
 
-- 🔭 I’m currently looking for entry level oppurtunies in  Machine learning and AI.
-- 🌱 I’m currently learning deep learning using Tensorflow and planing to learn Pytorch.
+- 🔭 I’m AI engineer who has expertise in building NLP, Vision and information extraction systems.
 - ⚡ Fun fact: I was born in Goa :palm_tree:, but never went there as a grown up.
 
 
